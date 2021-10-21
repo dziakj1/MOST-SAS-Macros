@@ -1,0 +1,21 @@
+Copyright (c) 2020, The Pennsylvania State University.
+
+This program is free software; you can redistribute it and/or modify it under the terms described below.
+
+WARRANTY
+This software is provided "as is," and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose, are expressly disclaimed. In no event shall Penn State University or its employees be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited, the costs of procurement of substitute goods or services; loss of use, data or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of the use of this software, even if advised in advance of the possibility of such damage.
+
+PUBLICATIONS
+Any peer-reviewed publication in which this software is used will include a citation of the software in the reference section. Sample citations in APA format will be available on The Methodology Center website for as long as the software is supported by the center.
+
+REDISTRIBUTION
+Redistribution and use of this software, with or without modification, are permitted, provided that the following conditions are met:
+
+1. Any redistribution must include the above copyright notice and disclaimer and this list of conditions in any related documentation and, if feasible, in the redistributed software.
+
+2. Any redistribution must include the acknowledgment, "This product includes software developed by Methodology Center, The Pennsylvania State University," in any related documentation and, if feasible, in the redistributed software.
+
+3. The names "Penn State" and "Penn State University", and "The Pennsylvania State University" are trademarks of The Pennsylvania State University and may not be used in association with any goods or services, including products derived from these materials, without the prior express written agreement of The Pennsylvania State University.
+
+OTHER TERMS
+By downloading this software, you are agreeing to abide by the terms and conditions contained herein. By downloading, you are obtaining a non-exclusive license to use these materials in accordance with these terms. Nothing contained herein shall be deemed a waiver of any rights by The Pennsylvania State University in these materials.
